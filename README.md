@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shishir
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: He/Him
 
 
