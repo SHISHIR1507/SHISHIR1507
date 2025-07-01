@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | CSE Grad | Tech Explorer
 
-I'm a 21-year-old developer building cool stuff with **MERN Stack**, learning **AI**, and on a mission to hit ₹1 crore before 25. I love creating full-stack web apps, solving real-world problems, and leveling up every week — one repo at a time.
+I'm a  developer building cool stuff with **MERN Stack**, learning **AI** . I love creating full-stack web apps, solving real-world problems, and leveling up every week — one repo at a time.
 
 ---
 
