@@ -7,17 +7,21 @@
 
 ### 🚀 Full-Stack Developer | CSE Grad | Tech Explorer
 
-I'm a  developer building cool stuff with **MERN Stack**, learning **AI** . I love creating full-stack web apps, solving real-world problems, and leveling up every week — one repo at a time.
+I’m a developer passionate about building **scalable web apps** and exploring **AI** .  
+Love solving real-world problems, diving deep into backend systems, and leveling up every week — **one repo at a time.**  
+
 
 ---
 
 ## 🧠 What I'm Learning Right Now
-- 🔧 Backend Architecture with Node.js + MongoDB
-- ☁️ Cloud Uploads (Multer + Cloudinary)
-- 🔒 Authentication (JWT, Cookies, Middleware)
-- 🤖 AI + Prompt Engineering
-- 📦 Git + GitHub like a pro (SSH, CI/CD)
-
+- 🏗️ **System Design & Backend Scaling** (APIs, caching, microservices)  
+- ⚡ **Next.js + TypeScript** (modern frontend & full-stack workflows)  
+- 🤖 **Generative AI Development**  
+  - RAG (Retrieval-Augmented Generation) apps  
+  - LLM integration  
+  - Vector databases (Pinecone, Weaviate, MongoDB Atlas Vector Search)  
+- 🔐 **Advanced Auth** (OAuth, JWT best practices, session security)  
+- ⚙️ **DevOps Essentials** (CI/CD pipelines, Docker, cloud deployment) 
 ---
 
 ## 🌐 Socials:
@@ -54,20 +58,10 @@ I'm a  developer building cool stuff with **MERN Stack**, learning **AI** . I lo
 
 ## 🧰 My Fav Toolbox
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,github,figma,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,github,figma,vercel,postman,ai,redis,docker,ts,tailwind" />
 
 
 ---
-
-## 🚀 Featured Projects
-
-### 🎥 Metatube
-A (YouTube+Twitter) - style full-stack video platform (JWT + MongoDB + Cloudinary)\
-🔗 [View Repo](https://github.com/SHISHIR1507/Metatube-mern)
-
-### 🍔 Food Delivery App
-MERN app with restaurant, cart, order & billing system\
-🔗 [View Repo](https://github.com/SHISHIR1507/food-delivery)
 
 
 # 📊 GitHub Stats:
