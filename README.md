@@ -1,36 +1,66 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
 
+<h1 align="center">🫡 Hi, I’m Shishir Singh</h1>
 
-# 👋 Hey, I'm **Shishir Singh**
+<h3 align="center">
+Software Engineer • Backend & AI Systems
+</h3>
 
-### 🚀 Full-Stack Developer | CSE Grad | Tech Explorer
+<p align="center">
+I build backend systems and AI-powered services that are expected to work in production.<br/>
+This includes APIs, microservices, databases, and the occasional “why is this failing only in prod?” moment.
+</p>
 
-I’m a developer passionate about building **scalable web apps** and exploring **AI** .  
-Love solving real-world problems, diving deep into backend systems, and leveling up every week — **one repo at a time.**  
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+</p>
+
+---
+<table>
+<tr>
+<td valign="top" width="100%">
+
+## What I Work On (Most Days)
+
+- 🧩 **Backend engineering**  
+  Designing and building APIs and microservices using FastAPI.  
+  Mostly predictable. Occasionally humbling.
+
+- 🤖 **AI-powered systems**  
+  Building RAG pipelines, embeddings, and MCP-based integrations.  
+  Making sure AI features behave like software, not magic. 🧙🏻
+
+- ☁️ **Infrastructure and deployment**  
+  Deploying services on AWS (EC2 and friends).  
+  If it runs in prod and doesn’t wake anyone up, it’s a good day. 😌
+
+- 🧠 **System-level problem solving**  
+  Debugging failures, edge cases, and things that “should not happen” but do.
+
+</td>
+<td valign="top" width="30%" align="center">
+<br></br>
+<br></br>
+<br></br>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="240"/>
+
+</td>
+</tr>
+</table>
+
+### How I Like to Work 👀
+
+I enjoy working close to real systems — where logs matter, failures are educational, and “it works on my machine” is not considered a solution. 
 
 
 ---
 
-## 🧠 What I'm Learning Right Now
-- 🏗️ **System Design & Backend Scaling** (APIs, caching, microservices)  
-- ⚡ **Next.js + TypeScript** (modern frontend & full-stack workflows)  
-- 🤖 **Generative AI Development**  
-  - RAG (Retrieval-Augmented Generation) apps  
-  - LLM integration  
-  - Vector databases (Pinecone, Weaviate, MongoDB Atlas Vector Search)  
-- 🔐 **Advanced Auth** (OAuth, JWT best practices, session security)  
-- ⚙️ **DevOps Essentials** (CI/CD pipelines, Docker, cloud deployment) 
----
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suno_na_shishirrrr) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shishir-singhh) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shishir11794577) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhshishir4727@gmail.com) 
 
----
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -54,11 +84,22 @@ Love solving real-world problems, diving deep into backend systems, and leveling
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-6A5ACD?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-2F4F4F?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-8A2BE2?style=for-the-badge)
+<br></br>
 
 ## 🧰 My Fav Toolbox
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,github,figma,vercel,postman,ai,redis,docker,ts,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,aws,docker,redis,nginx,git,github,postman,ai" />
+
+
 
 
 ---
@@ -66,9 +107,33 @@ Love solving real-world problems, diving deep into backend systems, and leveling
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHISHIR1507&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=SHISHIR1507&theme=dracula&hide_border=false)
 
 ---
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
+</div>
 
