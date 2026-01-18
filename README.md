@@ -132,8 +132,5 @@ I enjoy working close to real systems — where logs matter, failures are educat
     <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="40" height="40"/>
 </div>
 
